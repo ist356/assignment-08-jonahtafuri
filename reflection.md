@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jonah Tafuri
+Sudent Email:  jttafuri@syr.eduu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+This assignment was pretty straightforward since we were guided through it. It was valuable to learn the data preprocessing and the mapping steps. I could stand to practice on my own how to apply the mapping portion to streamlit, because I was walked through it I didn't have to figure it out on my own. We also did not get to the map dashboard part within class so if i integrate mapping into my project I definitely will need to review the material in this HW.
